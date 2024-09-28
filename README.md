@@ -1,5 +1,4 @@
 # Random Quote Generator
-==========================
 
 A simple web application that displays a random motivational quote.
 
@@ -49,4 +48,4 @@ A simple web application that displays a random motivational quote.
 ## Author
 ------
 
-Tammer Hicks
+Tanner Hicks
